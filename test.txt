@@ -1,3 +1,6 @@
+This is git modified
+
+
 that is testing file. that is also a rough file.
 that is learning file. this is the file where you can do whatever you want.
 You can easily manupulate this file. 
