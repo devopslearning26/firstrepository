@@ -1,0 +1,13 @@
+total 39000
+-rw-r--r--  1 koushikkumarroy  staff        451 Mar 15 13:10 archive.tar.gz
+-rwxrwxrwx  1 koushikkumarroy  devops        28 Mar 15 22:27 file.txt
+lrwxr-xr-x  1 koushikkumarroy  staff          8 Mar 15 03:23 filelink -> file.txt
+-rw-r--r--  1 koushikkumarroy  staff   19265399 Mar 15 21:45 html.zip
+-rw-r--r--  1 koushikkumarroy  staff         15 Mar 15 22:27 newfile.txt
+drwxr-xr-x  4 koushikkumarroy  staff        128 Mar 15 18:03 parent_dir_1
+drwxr-xr-x  7 koushikkumarroy  staff        224 Mar 15 18:51 practice
+-rwxrwxrwx  1 koushikkumarroy  staff         13 Mar  7 07:15 practice.txt
+-rwxrwxrwx  1 koushikkumarroy  staff        200 Mar 13 07:01 structure.txt
+-rwxrwxrwx  1 koushikkumarroy  staff        321 Mar 15 12:32 test.txt
+-rwxrwxrwx  1 koushikkumarroy  staff        280 Mar 11 07:27 test2.txt
+-rw-r--r--  1 koushikkumarroy  staff        122 Mar 15 22:52 xyz.txt

@@ -1,0 +1,14 @@
+that is testing file. that is also a rough file.
+that is learning file. this is the file where you can do whatever you want.
+You can easily manupulate this file. 
+that line will be tested for sed command.
+that is the test line.
+
+that is final line.
+ere random txt is present.
+
+
+Here is more content.
+Line 1
+Line 2
+Line 3
