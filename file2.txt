@@ -2,3 +2,4 @@ This is a new file created through a separate medium.
 The file is modified in local repo branch_a
 This is modified in local repo.
 This is modified in the remote repo.
+This is modified for revert practice.
